@@ -33,7 +33,7 @@ Criar uma página web moderna e responsiva para uma cafeteria fictícia, destaca
 
 ## 🖼️ Captura de Tela
 
-![Preview do Site](https://i.imgur.com/YOUR_IMAGE_LINK.png)  
+![Preview do Site](https://i.postimg.cc/VNGD25pc/star.png)  
 *Substitua esse link pela imagem real do site*
 
 ---
