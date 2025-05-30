@@ -2,7 +2,7 @@
 
 Bem-vindo ao projeto **Starburck**, um site institucional inspirado em cafeterias modernas, oferecendo uma experiência visual envolvente com foco em produtos, cardápio e contato com o cliente.
 
-![Capa do Projeto](https://img.icons8.com/emoji/96/coffee-emoji.png)
+
 
 ## 🌟 Objetivo
 
